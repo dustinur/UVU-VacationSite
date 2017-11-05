@@ -1,2 +1,2 @@
-# 2014 HTML/CSS practice for Web Essentials at UVU Edit
+# 2014 HTML/CSS practice for Web Essentials at UVU
 Add topics
